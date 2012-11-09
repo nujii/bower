@@ -28,7 +28,7 @@
     "request": "~2.11.4",
     "fstream": "~0.1.19",
     "hogan.js": "~2.0.0",
-    "lodash": "https://github.com/bestiejs/lodash/archive/master.tar.gz",
+    "underscore": "~1.4.2",
     "read-package-json": "~0.1.8",
     "stable": "~0.1.2",
     "rc": "~0.0.6"
